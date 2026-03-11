@@ -1,0 +1,13 @@
+.home {
+    color:red;
+    font-size: 60px;
+}
+
+.navigation {
+    display: flex;
+    justify-content: center;
+}
+.list {
+    display: flex;
+    flex-direction: row;
+}
